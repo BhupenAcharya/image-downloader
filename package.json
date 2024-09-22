@@ -10,6 +10,8 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "unsplash-js": "^7.0.19"
+    "node-fetch": "^3.3.2",
+    "unsplash-js": "^7.0.19",
+    "whatwg-fetch": "^3.6.20"
   }
 }
